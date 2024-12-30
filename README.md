@@ -4,7 +4,7 @@
 This project demonstrates my approach to analyzing lead data for an educational consultancy. The dataset and scenarios have been recreated for demonstration purposes and do not include any proprietary or confidential information.
 
 # Dataset
-The dataset consists of 8 columns:
+The dataset consists of 8 columns and 4382 rows:
 
 |Column        |Description |
 | ---------- | ----------------------------------   | 
