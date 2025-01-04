@@ -105,7 +105,7 @@ About 68% of the disqualified leads were looking at the Sep 24 and Jan 25 sessio
 ![image](https://github.com/user-attachments/assets/426dfcf3-8c63-4675-b3f8-ea5d4d4e1149)
 
 #### 7. Top 5 Source of Information
-Based on the insights gotten from the categrised data, majority of the leads came from various kinds of sources grouped under "Others" while a significant percentage came from "WakaDoctor" and "Social Media"
+Based on the insights gotten from the categrised data, majority of the leads came from various kinds of sources grouped under "Others" while a significant percentage came from "WakaDoctor" and "Social Media".
 ![image](https://github.com/user-attachments/assets/682dd6aa-27f1-4eb5-9d1b-5d6b7dafb2ea)
 
 #### 8. Recommendation for additional data fields for analysis:
