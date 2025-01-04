@@ -88,17 +88,16 @@ The most preferred destinations are Canada, UK, USA, France, and Ireland their g
 
 #### 3. Top 5 nationalities across disqualified leads:
 66% of disqualified leads are from Nigeria, highlighting a significant geographic trend. 
-
 ![image](https://github.com/user-attachments/assets/e00bb7a3-c8d8-45a2-92d0-8f47edeff4f0)
 
 
 #### 4. Top 5 states across disqualified leads:
-Lagos had the highest number of leads across the different states
+Lagos had the highest number of leads across the different states.
+
 ![image](https://github.com/user-attachments/assets/d31ccfa4-0beb-4c38-a1e2-c8286f60929c)
 
 #### 5. An heatmap exploring the relationship between nationality and courses of interest, providing insight into trends across different regions.
 The data reveals a significant distribution of course preferences among leads from Nigeria.
-
 ![image](https://github.com/user-attachments/assets/2805b6d3-23d1-4cf9-9739-ec20c57698ce)
 
 #### 6. Intake
