@@ -108,7 +108,11 @@ About 68% of the disqualified leads were looking at the Sep 24 and Jan 25 sessio
 Based on the insights gotten from the categrised data, majority of the leads came from various kinds of sources grouped under "Others" while a significant percentage came from "WakaDoctor" and "Social Media".
 ![image](https://github.com/user-attachments/assets/682dd6aa-27f1-4eb5-9d1b-5d6b7dafb2ea)
 
-#### 8. Recommendation for additional data fields for analysis:
-- Lead Status/Qualification Reason: Adding a column that explains why a lead was disqualified can provide deeper insights into which factors are causing disqualifications. It can also help to tailor the marketing and lead qualification processes.
-- Education Level: Including current educational level would also help identify what certain academic backgrounds are more likely to be qualified leads.
+#### 8. Recommendations for Improving Data Collection and Analysis of Disqualified Leads:
+Education Level:
+- Including the current education level in the data collection process would help identify trends regarding which academic backgrounds are most often disqualified.This data can be used to tailor programme offerings and funding options to better suit leads with specific educational backgrounds, potentially reducing disqualification rates.
+- Data Quality – Standardised Responses: Standardising the survey form by using dropdown options instead of free-text input would ensure more consistent and controlled responses.
+For example, providing a predefined list of states for respondents to choose from can improve data accuracy and streamline analysis.
+Controlled responses reduce errors during data processing and enhance the reliability of insights derived from the data.
+- 
 
