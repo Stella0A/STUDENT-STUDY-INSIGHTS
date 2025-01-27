@@ -19,39 +19,27 @@ The dataset consists of 8 columns and 4382 rows:
 
 # Business Requirements
 The analysis addresses the following business questions:
-### Descriptive Analysis
 1. Identify the top 3 common subject areas among disqualified leads.
 2. Highlight the most common study destinations and courses of interest among disqualified leads.
 3. Identify additional data fields that could improve analysis.
-   
-### Visualization
-1. Bar chart of the distribution of Nationalities (and states).
-2. Heatmap showing the relationship between Nationalities and Courses of Interest.
-
-### Insights
-1. Identify one major trend in the data and discuss its potential business impact.
-   
-### Recommendations
-1. Suggest one actionable strategy to reduce disqualified leads and improve overall lead quality.
+4. Bar chart of the distribution of Nationalities (and states).
+5. Heatmap showing the relationship between Nationalities and Courses of Interest.
+6. Identify one major trend in the data and discuss its potential business impact.
+7. Suggest one actionable strategy to reduce disqualified leads and improve overall lead quality.
 
 # Analysis Section
 In this case study, I conducted a thorough analysis of a dataset involving leads for an educational consultancy. My approach included:
 
 ## Data Cleaning and Preprocessing:
 Upon importing the data into Power Query in Power BI, I identified several inconsistencies in the entries due to the survey responses. To ensure the data was clean and suitable for analysis, I performed the following steps:
-#### Splitting Columns with Multiple Entries:
-Columns such as "State/City of Domicile," "Destination," "Source," and "Course of Interest" contained multiple values in a single cell. I split these columns into individual ones to isolate each entry, making the dataset more manageable and analyzable.
-#### Replacing and Filling Columns:
-I replaced any missing or inconsistent entries in these columns with appropriate values, ensuring uniformity across the dataset.
-#### Trimming Whitespace:
-After splitting the columns, I applied trimming to remove any leading or trailing whitespace from the data. This helped to eliminate formatting inconsistencies that could impact the accuracy of future analyses.
-#### Unpivoting:
-To ensure the data was in a long format suitable for analysis, I unpivoted relevant columns, which transformed the dataset into a more analysis-friendly structure.
-#### Removing Duplicates:
-After cleaning and ensuring consistency across the columns, I removed duplicate rows to ensure the data was unique and didn’t skew analysis results.
+- Splitting Columns with Multiple Entries: Columns such as "State/City of Domicile," "Destination," "Source," and "Course of Interest" contained multiple values in a single cell. I split these columns into individual ones to isolate each entry, making the dataset more manageable and analyzable.
+- Replacing and Filling Columns: I replaced any missing or inconsistent entries in these columns with appropriate values, ensuring uniformity across the dataset.
+- Trimming Whitespace: After splitting the columns, I applied trimming to remove any leading or trailing whitespace from the data. This helped to eliminate formatting inconsistencies that could impact the accuracy of future analyses.
+- Unpivoting: To ensure the data was in a long format suitable for analysis, I unpivoted relevant columns, which transformed the dataset into a more analysis-friendly structure.
+- Removing Duplicates: After cleaning and ensuring consistency across the columns, I removed duplicate rows to ensure the data was unique and didn’t skew analysis results.
+  
 #### Categorizing Courses of Interest & Source:
-##### Courses of Interest 
-To streamline the analysis, I added a custom column using M Code in Power Query to categorize the "Courses of Interest" into broader categories. For example:
+- Courses of Interest: To streamline the analysis, I added a custom column using M Code in Power Query to categorize the "Courses of Interest" into broader categories. For example:
 1. Healthcare: Courses related to health, medicine, medical fields, and pharmacy.
 2. Technology & Computing: Courses involving computer science, software, data, AI, IT, etc.
 3. Business & Management: Courses like MBA, management, marketing, administration, etc.
@@ -59,8 +47,7 @@ This categorization enabled easier aggregation and analysis of trends across dif
 
 ![image](https://github.com/user-attachments/assets/53d3ea85-630b-4400-9f0d-4151f63d71af)
 
-##### Source
-Additionally, I categorized the "Source" field into broader groups based on the platform or origin of the leads:
+- Source: Additionally, I categorized the "Source" field into broader groups based on the platform or origin of the leads:
 1. Social media platforms such as LinkedIn, Twitter/X, Instagram, and YouTube were grouped under "Social Media."
 2. Referrals from people like friends, family, brother, and mother were categorized under "Referral."
 3. Paid Marketing: Sources such as "Paid Marketing", "Email", and "SMS" were grouped under the category "Paid Marketing" to simplify the analysis of marketing channels with paid efforts.
