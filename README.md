@@ -17,6 +17,11 @@ The dataset consists of 8 columns and 4382 rows:
 | Course(s) of Interest  | Academic courses the lead is interested in |
 | Intake                 | Desired intake period for the study program |
 
+# Tools Used
+- Power BI
+- Power Query
+- Mcode
+
 # Business Requirements
 The analysis addresses the following business questions:
 1. Identify the top 3 common subject areas among disqualified leads.
@@ -101,5 +106,5 @@ Education Level:
 - Data Quality – Standardised Responses: Standardising the survey form by using dropdown options instead of free-text input would ensure more consistent and controlled responses.
 For example, providing a predefined list of states for respondents to choose from can improve data accuracy and streamline analysis.
 Controlled responses reduce errors during data processing and enhance the reliability of insights derived from the data.
-- 
+ 
 
