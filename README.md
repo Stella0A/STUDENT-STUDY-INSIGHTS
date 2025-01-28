@@ -1,7 +1,8 @@
 # Student Study Insights - Case Study
 
 # Overview
-This project demonstrates my approach to analyzing lead data for an educational consultancy. The dataset and scenarios have been recreated for demonstration purposes and do not include any proprietary or confidential information.
+This project showcases my approach to analyzing lead data for an educational consultancy. As a Data Strategy Analyst, my goal is to identify the most requested subject areas, states, nationalities, study destinations, and source performance from the disqualified leads data. Also, I aim to recommend opportunities or strategies that could benefit the team.
+Please note that the dataset and scenarios have been recreated for demonstration purposes and do not include any proprietary or confidential information.
 
 # Dataset
 The dataset consists of 8 columns and 4382 rows:
